@@ -1,0 +1,12 @@
+<exchange_rates>
+    <currency>
+        <name>Euro</name>
+        <code>EUR</code>
+        <rate>1.0</rate>
+    </currency>
+    <currency>
+        <name>US Dollar</name>
+        <code>USD</code>
+        <rate>1.2087</rate>
+    </currency>
+</exchange_rates>
